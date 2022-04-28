@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WadingThruSecurity
-email: Wade@WadingThrySecurity.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- Security Operations Blog 
-baseurl: "WadingThruSecurity.com" # the subpath of your site, e.g. /blog
-url: "WadingThruSecurity.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: WadingThruLogs
-github_username:  WadingThruLogs
+ Security Operations Blue team blog (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: minima
