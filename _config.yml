@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: WadingThruSecurity
-tagline: Security Operations  blog
+image: /assets/images/SideBySide.png
+tagline: Security Operations Blog
 email: Wade@WadingThruSecurity.com
-description: Security Operations Blue team blog 
+description: Security Operations Blue team 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "WadingThruSecurity.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
