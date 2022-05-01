@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
- Security Operations Blue team blog (for
-  Google search results) and in your feed.xml site description.
+title: WadingThruSecurity
+tagline: Wading into the Darkness
+email: Wade@WadingThruSecurity.com
+description: Security Operations Blue team blog 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "WadingThruSecurity.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -33,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

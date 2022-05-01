@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "another"
+date:   2022-04-24 17:35:16 -0700
+categories: jekyll update
+image: /assets/images/logo.png
+---
+Some test text
+
+![]({{ page.image | relative_url}})

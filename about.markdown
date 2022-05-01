@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I hunt for evil inside networks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My dad built our first computer by dumpster diving in the early 90s. I learned how to spell "windows" in MS-DOS. I have always had a passion for technology, computers and bending rules. Working in cyber security was always a dream of mine. I love the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and most of all knowing that I'm helping a larger cause.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+This blog is my attempt to give back to the security community.
 
 [jekyll-organization]: https://github.com/jekyll
