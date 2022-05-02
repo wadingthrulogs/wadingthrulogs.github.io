@@ -1,3 +1,5 @@
-{% comment %}
-  A placeholder for customizing head.
-{% endcomment %}
+{%- if site.masthead -%}
+<a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" /></a>
+{%- else -%}
+<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+{%- endif -%}
