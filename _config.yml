@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: WadingThruSecurity
+title: 
 masthead: /assets/images/SideBySide.png
 tagline: Security Operations Blog
 email: Wade@WadingThruSecurity.com
