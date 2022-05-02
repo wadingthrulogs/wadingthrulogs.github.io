@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: Security Operations Blog
 masthead: /assets/images/SideBySide.png
-tagline: Security Operations Blog
 email: Wade@WadingThruSecurity.com
 description: Security Operations Blue team 
 baseurl: "" # the subpath of your site, e.g. /blog
