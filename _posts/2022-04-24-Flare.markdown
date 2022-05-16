@@ -3,7 +3,7 @@ layout: post
 title:  "Building a FLARE VM"
 date:   2022-04-24 17:35:16 -0700
 Tags: BlueTeam Flare
-categories: jekyll update
+categories: BlueTeam
 ---
 ![alt_text](/assets/images/FLARE.jpg "image_tooltip")
 TL;DR, Installing flare on Windows 10 with a PowerShell script. 
