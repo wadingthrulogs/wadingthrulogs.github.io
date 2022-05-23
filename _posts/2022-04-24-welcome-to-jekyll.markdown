@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "test1234"
-date:   2022-04-24 17:35:16 -0700
+title: "test1234"
+date: 2022-04-24 17:35:16 -0700
 categories: jekyll update
 tag: jekyll
 ---

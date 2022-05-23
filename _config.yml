@@ -27,12 +27,19 @@ url: "WadingThruSecurity.com" # the base hostname & protocol for your site, e.g.
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 # Build settings
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
