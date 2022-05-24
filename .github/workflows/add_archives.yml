@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Generate Jekyll Archives
-        uses: kannansuresh/jekyll-blog-archive-workflow@master
+        uses: kannansuresh/jekyll-blog-archive-workflow@v1.0.3
         with:
           archive_url: "https://wadingthrusecurity.com/archives/archivedata"
           archive_folder_path: "_archives"
