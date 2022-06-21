@@ -9,7 +9,6 @@ A list of hands On traing training resources I've used in the past.
 
 ## Packets
 
-Anal
 
 https://www.malware-traffic-analysis.net/
 
