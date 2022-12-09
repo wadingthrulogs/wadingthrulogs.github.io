@@ -13,6 +13,5 @@ This blog is my attempt to give back to the security community.
 If you want to hear me talk about InfoSec listen or watch the Black Hills InfoSec podcast "Talkin' Bout News"
 https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe?si=aa6c0ee7c8194de5
 
-If you want to hear about more orgin story check out on the Breaking Into Cybersecurity webcast
-https://www.youtube.com/watch?v=uG67G9-uZpI
 
+[![If you want to hear about more orgin story check out on the Breaking Into Cybersecurity webcast](https://img.youtube.com/vi/uG67G9-uZpI/maxresdefault.jpg)](https://www.youtube.com/watch?v=uG67G9-uZpI)
