@@ -11,10 +11,11 @@ My dad built our first computer by dumpster diving in the early 90s. I learned h
 I'm currently a Board member on BSides San Diego
 
 
-If you want to hear me talk about InfoSec listen or watch the Black Hills InfoSec podcast "Talkin' Bout News"
-[<img src="/assets/images/blackhills.jpg">](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe)
+If you want to hear me talk about InfoSec listen or watch the Black Hills InfoSec podcast "Talkin' Bout Infosec News"
+[<img src="/assets/images/BHTA.PNG">](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe)
 
 
 
 If you want to hear about my orgin story check out on the Breaking Into Cybersecurity.
-[![](https://img.youtube.com/vi/uG67G9-uZpI/maxresdefault.jpg)](https://www.youtube.com/watch?v=uG67G9-uZpI)
+[<img src="/assets/images/breakinto.PNG">](https://www.youtube.com/watch?v=uG67G9-uZpI))
+
