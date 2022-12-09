@@ -42,11 +42,11 @@ social:
   email: wade.wells@WadingThruSecurity.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/WadingThruLogs      # change to your twitter homepage
+    - https://github.com/WadingThruLogs       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/WadingThruLogs
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:   [dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/images/logo.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
