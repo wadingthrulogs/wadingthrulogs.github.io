@@ -18,5 +18,5 @@ If you want to hear me talk about InfoSec new listen or watch the Black Hills In
 
 
 If you want to hear about my orgin story check out "the Breaking Into Cybersecurity" podcast.
-[<img src="/assets/images/breakinto.PNG">](https://www.youtube.com/watch?v=uG67G9-uZpI))
+[<img src="/assets/images/breakinto.PNG">](https://www.youtube.com/watch?v=uG67G9-uZpI)
 
