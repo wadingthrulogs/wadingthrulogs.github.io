@@ -5,6 +5,3 @@ order: 5
 ---
 
 WadingThruSecurity offers security and training please contact Consulting@WadingThruSecurity.com for more information 
-
-test 
-test
