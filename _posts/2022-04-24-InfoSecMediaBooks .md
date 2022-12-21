@@ -7,7 +7,7 @@ render_with_liquid: false
 ---
 
 
-When I do something, I always attempt to do it to the fullest, or at least to the best of my abilities. An old boss used to tell me, "to be the best at something, you have to Live It" InfoSec is no different. To be a better information security practitioner, I surround myself with varying types of infosec media. Books, podcasts, comics, tv shows, movies, and more. Surrounding yourself with this media allows you to learn from different angles, solidify topics you are learning about, and broaden your horizons. 
+When I do something, I always attempt to do it to the fullest, or at least to the best of my abilities. An old boss used to tell me, To be the best at something, you have to Live It" InfoSec is no different. To be a better information security practitioner, I surround myself with varying types of infosec media. Books, podcasts, comics, tv shows, movies, and more. Surrounding yourself with this media allows you to learn from different angles, solidify topics you are learning about, and broaden your horizons. 
 
 
 # Books
