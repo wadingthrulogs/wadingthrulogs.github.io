@@ -2,7 +2,7 @@
 title: Atomic Habits
 date: 2022-04-24 +0800
 categories: [Reading,Self-Improvment]
-tags: [Self-Improvment]
+tags: [Self-Improvment, Noob_Friendly]
 render_with_liquid: false
 ---
  ![Desktop View](/assets/images/atomichabits.jpg){: width="972" height="589" .w-50 .left}
