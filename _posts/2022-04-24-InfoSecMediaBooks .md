@@ -48,7 +48,7 @@ This Is How They Tell Me the World Ends by Nicole Perlroth examines the growing 
 
 ## Cybersecurity Canon
 
-![Desktop View](/assets\images\books\ohio.png){: width="972" height="589" .w-50 .normal}
+![Desktop View](/assets\images\books\ohio.png)
 
 These three books are fantastic in their own way. If none of them pique your interest, I highly suggest checking out the Ohio State University "Cybersecurity Canon" book reviews. They have reviewed many infosec books, including the three mentioned today. Check out the Hall of Fame Winners to narrow your search. 
 
