@@ -1,6 +1,6 @@
 ---
 title: Atomic Habits
-date: 2022-04-24 +0800
+date: 2022-12-01 +0800
 categories: [Reading,Self-Improvment]
 tags: [Self-Improvment, Noob_Friendly]
 render_with_liquid: false
