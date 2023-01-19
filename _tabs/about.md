@@ -12,7 +12,7 @@ I'm currently a Board member on BSides San Diego
 
 [<img src="/assets/images/bsides.PNG">](https://www.bsidessd.org/)
 
-If you want to hear me talk about InfoSec new listen or watch the Black Hills InfoSec podcast "Talkin' Bout Infosec News"
+If you want to hear me talk about InfoSec news listen or watch the Black Hills InfoSec podcast "Talkin' Bout Infosec News"
 
 [<img src="/assets/images/BHTA.PNG">](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe)
 
