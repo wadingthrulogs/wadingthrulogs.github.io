@@ -17,7 +17,7 @@ Let's start with books. If you're busy or hate reading, I recommend trying out a
 
 ## The Cuckoo's Egg
 
-![Desktop View](/assets\images\books\the-cuckoos-egg-.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/assets/images/books/the-cuckoos-egg-.jpg){: width="972" height="589" .w-50 .right}
 
 The "Cuckoo's Egg" is a non-fiction book by Cliff Stoll, a systems administrator and astronomer. The book chronicles Stoll's efforts to track down a hacker who had broken into a computer system at the Lawrence Berkeley National Laboratory, where Stoll worked. The story begins when Stoll discovers a minor accounting error in the system's log files and sets out to find the cause. As he investigates further, he realizes that the mistake was caused by a hacker who had gained access to the system. Stoll spends months tracking down the hacker, piecing together clues from log files and other sources. 
 
@@ -27,7 +27,7 @@ This book demonstrates the logical thinking of a security analyst before there w
 
 ## Sandworm
 
-![Desktop View](/assets\images\books\Sandowrm.jpg){: width="972" height="589" .w-50 .left}
+![Desktop View](/assets/images/books/Sandowrm.jpg){: width="972" height="589" .w-50 .left}
 
 Andy Greenberg's "Sandworm" is a non-fiction book that tells the story of a hacker group known as Sandworm. This group is responsible for some of the most damaging cyber attacks in history, including the Ukrainian power grid attack in 2015 and "NotPetya" in 2017. The book explores the motivations and tactics of Sandworm and the efforts to track them down and bring them to justice. Sandworm is a compelling and detailed account of the ongoing threat of cyber warfare and the steps to defend against it.
 
@@ -39,7 +39,7 @@ Sandworm helped me understand the motives of nation-state-level hacking from a n
 
 ## This Is How They Tell Me the World Ends
 
-![Desktop View](/assets\images\books\howtheworld.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/assets/images/books/howtheworld.jpg){: width="972" height="589" .w-50 .right}
 
 This Is How They Tell Me the World Ends by Nicole Perlroth examines the growing threat of cyber warfare and the proliferation of cyber weapons. The book focuses on the development and use of such weapons by governments, militaries, and criminal organizations. The book also explores the potential consequences of a significant cyber attack, including the disruption of critical infrastructure, financial losses, and the potential for physical harm to individuals. The book was a thought-provoking and informative look at the risks and consequences of the cyber arms race. It covers similar topics as "Sandworm" but explores other points of view and other significant breaches. Where Sandworm felt like a story was being told about a singular character,  This Is How They Tell Me the World End felt like world-building, like an epic fantasy world. Check out the books website [Here](https://thisishowtheytellmetheworldends.com/)
 
