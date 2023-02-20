@@ -49,12 +49,16 @@ This spreadsheet was put together by several researchers and holds excellent inf
 
 Several vendors offer information for free if you visit their sites or create free accounts. These vendors hold some excellent information, but I don't want to recommend anyone over the others or provide links. Some change their offerings and are no longer very viable. 
 
+##  Resources
+I wanted to provide a couple of interesting resources that may help you with threat actor profiling. It goes from basic description to in-depth frameworks. 
 
 
+[Understanding the Value and Use of Threat Profiles by Christoffer Strömblad](https://www.truesec.com/hub/blog/understanding-the-value-and-use-of-threat-profiles)
 
 
+[Quantifying Threat Actors with Threat Box by Andy Piazza](https://klrgrz.medium.com/quantifying-threat-actors-with-threat-box-e6b641109b11)
 
-
+[Creating a Threat Profile for Your Organization By Stephen Irwin](https://www.giac.org/paper/gcih/1772/creating-threat-profile-organization/110995)
 
 
 
