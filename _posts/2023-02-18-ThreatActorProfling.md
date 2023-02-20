@@ -20,17 +20,19 @@ Finding out who will likely attack your organization starts with some self-refle
 
 When researching these questions, scope out a time in which the event occurred. You want enough data to work with but don't want to overwhelm yourself with research. For example, who are the threat actors attacking my industry in the last three years? What competitors have suffered a breach within the previous year? Another question worth brainstorming is, "Will my organization be attacked due to my customers." This is something that takes more time to unravel. Understanding who your customers are and what data/access you have to them could allow you to properly scope if you would be a target of a supply chain attack. This is extreme thinking, and most companies will not meet these criteria, but no one wants to be the next Fazio Mechanical Services or Solarwinds.
 
+![Desktop View](/assets/images/taprofiling/allgroups.png){: width="972" height="589" .w-50 .right}
+
 These are the topics I chose within a two-year time frame of performing the research: 
 * Any Threat Actor attacking my industry
 * Any Threat Actor attacking my competitors
 * Any Threat Actor using Supply Chain Attacks as a Tactic 
 
-![Desktop View](/assets/images/taprofiling/allgroups.png){: width="972" height="589" .w-50 .right}
+![Desktop View](/assets/images/taprofiling/vandi.png){: width="972" height="589" .w-50 .right}
 
-I also limited the research to each category's top eight threat actors. Giving me a total of 24 data points to work with. I expected a large amount of overlap in the data, and there was. I also had to prune out actors who were not actively attacking my nation. From those 24, I was left with 13 unique threat actors. ![Desktop View](/assets/images/taprofiling/vandi.png){: width="972" height="589" .w-50 .right}
+I also limited the research to each category's top eight threat actors. Giving me a total of 24 data points to work with. I expected a large amount of overlap in the data, and there was. I also had to prune out actors who were not actively attacking my nation. From those 24, I was left with 13 unique threat actors. ![Desktop View](/assets/images/taprofiling/excelf.png){: width="972" height="589" .w-50 .right}
 
 I researched these 13 threat actors heavily. Documenting their TTPs, understanding their capabilities, and gauging their possible intent of attacking my organization. This was a challenging task and required a large amount of reading and excel spreadsheets. Once finished, I could ascertain which actors to prioritize intelligence actions around. I also created a MITRE ATT&CK map to visualize the most common TTPs to prioritize creating defenses. 
-![Desktop View](/assets/images/taprofiling/excelf.png){: width="972" height="589" .w-50 .right}
+
 
 ![Desktop View](/assets/images/taprofiling/map.png)
 
