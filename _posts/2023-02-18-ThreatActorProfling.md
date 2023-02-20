@@ -43,7 +43,7 @@ In researching the threat actors, I used both closed and open-source tools. This
 	
 Attack Groups is an excellent resource for finding TTPs, and articles pivot from to find more information. With the vast amounts of reports, knowledge, and pre-made attack maps leveraging ATT&CK is a no-brainer. I highly suggest checking out the [ATT&CK browser app](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/attack-powered-suit/) as well. It wasn't around when I performed this, but I'm an avid user now. 
 
-[APT Groups and Operations](https://docs.google.com/document/d/1hJu1tBjYmUzLa2ixrHSYzr-BC8T5-SOcw0z-cKFYdzY/edit) 
+[APT Groups and Operations](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=1864660085) 
 
 This spreadsheet was put together by several researchers and holds excellent information. Make sure to look through all the columns and the different sheets. 
 
