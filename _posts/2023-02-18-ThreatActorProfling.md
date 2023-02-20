@@ -24,13 +24,13 @@ These are the topics I chose within a two-year time frame of performing the rese
 * Any Threat Actor attacking my industry
 * Any Threat Actor attacking my competitors
 * Any Threat Actor using Supply Chain Attacks as a Tactic 
-![Desktop View](/assets\images\taprofiling\allgroups.png){: width="972" height="589" .w-50 .left}
-I also limited the research to each category's top eight threat actors. Giving me a total of 24 data points to work with. I expected a large amount of overlap in the data, and there was. I also had to prune out actors who were not actively attacking my nation. From those 24, I was left with 13 unique threat actors. ![Desktop View](/assets\images\taprofiling\vandi.png){: width="972" height="589" .w-50 .left}
+![Desktop View](/assets/images/taprofiling/allgroups.png){: width="972" height="589" .w-50 .left}
+I also limited the research to each category's top eight threat actors. Giving me a total of 24 data points to work with. I expected a large amount of overlap in the data, and there was. I also had to prune out actors who were not actively attacking my nation. From those 24, I was left with 13 unique threat actors. ![Desktop View](/assets/images/taprofiling/vandi.png){: width="972" height="589" .w-50 .left}
 
 I researched these 13 threat actors heavily. Documenting their TTPs, understanding their capabilities, and gauging their possible intent of attacking my organization. This was a challenging task and required a large amount of reading and excel spreadsheets. Once finished, I could ascertain which actors to prioritize intelligence actions around. I also created a MITRE ATT&CK map to visualize the most common TTPs to prioritize creating defenses. 
-![Desktop View](/assets\images\taprofiling\excelf.png){: width="972" height="589" .w-50 .left}
+![Desktop View](/assets/images/taprofiling/excelf.png){: width="972" height="589" .w-50 .left}
 
-![Desktop View](/assets\images\taprofiling\map.png)
+![Desktop View](/assets/images/taprofiling/map.png)
 
 ## How I did it
 In researching the threat actors, I used both closed and open-source tools. This quick blurb will point you toward two good resources to perform the operation above. 
