@@ -2,7 +2,7 @@
 title: Threat Actor Profiling
 date: 2023-02-18 +0800
 categories: [CTI]
-tags: [CTI]
+tags: [CTI101]
 render_with_liquid: false
 ---
 
