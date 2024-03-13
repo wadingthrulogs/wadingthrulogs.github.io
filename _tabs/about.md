@@ -25,5 +25,3 @@ https://www.youtube.com/watch?v=K8TCAMvkIYQ&t=2s&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
 https://www.youtube.com/watch?v=tY27MsxygUk&t=2458s&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
 
 https://www.youtube.com/watch?v=eI4TvstZOqM&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
-
-test
