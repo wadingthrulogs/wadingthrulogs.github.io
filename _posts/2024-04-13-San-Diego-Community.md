@@ -6,9 +6,28 @@ tags: [community]
 render_with_liquid: false
 ---
 All of San Diego cyber Communities
+# Groups
+1. [OWASP SD](#owasp)
+
+2. [WiCycs](#wicycs)
+3. [ISACA](#isaca)
+4. [ISC2](#isc2)
+5. [ISSA](#issa)
+6. [Cloud Security Alliance](#cloud-security-alliance)
+7. [Defcon Group 858/619](#defcon-858619)
+8. [BSides San Diego](#bsides-san-diego)
+9. [San Diego Cyber Group](#san-diego-cyber-group)
+10. [Cyber Security for Automated Processes and Control Systems](#cyber-security-for-automated-processes-and-control-systems)
+11. [San Diego CISO Round Table](#san-diego-ciso-round-table)
+12. [InfraGard San Diego](#infragard-san-diego)
+13. [Raices Cyber](#raices-cyber)
 
 
-### OWASP
+
+
+
+
+### OWASP SD
 The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security. 
 
 	https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/
@@ -44,8 +63,8 @@ The Cloud Security Alliance (CSA) is the world’s leading organization dedicate
 
 	https://www.meetup.com/cloud-security-alliance-san-diego/
 
-### Defcon Group
-DEFCON meet up Group here in San Diego that meet up that meets monthly
+### Defcon 858/619
+DEFCON meet up group here in San Diego that meet up that meets monthly
 
 	https://twitter.com/DCG858
 	https://www.dc858.org/
@@ -85,12 +104,11 @@ The Hispanic, Latino, Latina, LatinX and Our Allies International Association in
 
 	https://www.raicescyber.org/san-diego-chapter
 
-# IT
+#  Some other IT groups
 ### Google Cloud San Diego Community Meetup
 	https://www.meetup.com/google-cloud-san-diego/events/297199615/
 	https://events.c2cglobal.com/events/details/c2c-events-san-diego-presents-2gather-google-cloud-san-diego-community-meetup-2023-12-01/
 
 ### San Diego Tech Coffee
-The Hispanic, Latino, Latina, LatinX and Our Allies International Association in Cybersecurity
 	https://www.meetup.com/sandiego-tech-coffee/
 
