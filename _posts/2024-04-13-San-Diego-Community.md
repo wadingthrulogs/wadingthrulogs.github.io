@@ -7,21 +7,6 @@ render_with_liquid: false
 ---
 All of San Diego cyber Communities
 # Groups
-1. [OWASP SD](#owasp)
-
-2. [WiCycs](#wicycs)
-3. [ISACA](#isaca)
-4. [ISC2](#isc2)
-5. [ISSA](#issa)
-6. [Cloud Security Alliance](#cloud-security-alliance)
-7. [Defcon Group 858/619](#defcon-858619)
-8. [BSides San Diego](#bsides-san-diego)
-9. [San Diego Cyber Group](#san-diego-cyber-group)
-10. [Cyber Security for Automated Processes and Control Systems](#cyber-security-for-automated-processes-and-control-systems)
-11. [San Diego CISO Round Table](#san-diego-ciso-round-table)
-12. [InfraGard San Diego](#infragard-san-diego)
-13. [Raices Cyber](#raices-cyber) 
-
 
 San Diego has a large Cyber community. This is a complied list of all those communities. 
 
