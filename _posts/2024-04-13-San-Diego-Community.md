@@ -20,11 +20,10 @@ All of San Diego cyber Communities
 10. [Cyber Security for Automated Processes and Control Systems](#cyber-security-for-automated-processes-and-control-systems)
 11. [San Diego CISO Round Table](#san-diego-ciso-round-table)
 12. [InfraGard San Diego](#infragard-san-diego)
-13. [Raices Cyber](#raices-cyber)
+13. [Raices Cyber](#raices-cyber) 
 
 
-
-
+San Diego has a large Cyber community. This is a complied list of all those communities. 
 
 
 ### OWASP SD
@@ -105,10 +104,13 @@ The Hispanic, Latino, Latina, LatinX and Our Allies International Association in
 	https://www.raicescyber.org/san-diego-chapter
 
 #  Some other IT groups
-### Google Cloud San Diego Community Meetup
+#### Google Cloud San Diego Community Meetup
 	https://www.meetup.com/google-cloud-san-diego/events/297199615/
 	https://events.c2cglobal.com/events/details/c2c-events-san-diego-presents-2gather-google-cloud-san-diego-community-meetup-2023-12-01/
 
-### San Diego Tech Coffee
+#### San Diego Tech Coffee
 	https://www.meetup.com/sandiego-tech-coffee/
 
+# LA Groups 
+Irvine Undergroun provided an awesome list of Orange county and Greater Los Angeles Area groups. That can be found here:
+https://www.irvineunderground.org/our-friends/
