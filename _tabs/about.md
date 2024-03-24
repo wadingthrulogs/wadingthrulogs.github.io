@@ -20,7 +20,7 @@ Below are some links to videos I'm in, and article I wrote for Black Hills InfoS
 
 [The Infosec Survival Guide, Second Volume w/ The Community](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294)
 
-[Red Team Rants | Panel Discussion | Offensive Con 2023 | Offensive Con 2023](https://youtu.be/p1Y2fC9OXMg?si=S1wYyqsE3qhIuSuW)
+[Red Team Rants  Panel Discussion  Offensive Con 2023  Offensive Con 2023](https://youtu.be/p1Y2fC9OXMg?si=S1wYyqsE3qhIuSuW)
 
 [Breaking Into Cybersecurity w Wade Wells 9.30.22 1 PM EST](https://www.youtube.com/watch?v=uG67G9-uZpI)
 
