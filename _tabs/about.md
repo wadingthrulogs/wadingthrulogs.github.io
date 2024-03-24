@@ -8,20 +8,24 @@ I hunt for evil inside networks.
 
 My dad built our first computer by dumpster diving in the early 90s. I learned how to spell "windows" in MS-DOS. I have always had a passion for technology, computers and bending rules. Working in cyber security was always a dream of mine. I love the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and most of all knowing that I'm helping a larger cause.
 
-I'm currently a Board member on BSides San Diego
+I'm currently a Board member on BSides San Diego and do a lot of other work in the San Diego Area.
+Below are some links to videos I'm in, and article I wrote for Black Hills InfoSec
 
 [<img src="/assets/images/bsides.PNG">](https://www.bsidessd.org/)
 
-If you want to hear me talk about InfoSec news listen or watch the Black Hills InfoSec podcast "Talkin' Bout Infosec News"
 
-[<img src="/assets/images/BHTA.PNG">](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe)
+[Triad of Success: Education, Experience, and Networking](https://www.youtube.com/watch?v=tY27MsxygUk)
 
+[Mapping and Testing Your Network to ATT&CK with Free Tools](https://youtu.be/eI4TvstZOqM?si=yXd1VIxiZJZRWv3)
 
-If you want to hear about my orgin story check out "the Breaking Into Cybersecurity" podcast.
-[<img src="/assets/images/breakinto.PNG">](https://www.youtube.com/watch?v=uG67G9-uZpI)
+[The Infosec Survival Guide, Second Volume w/ The Community](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294)
 
-https://www.youtube.com/watch?v=K8TCAMvkIYQ&t=2s&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
+[Red Team Rants | Panel Discussion | Offensive Con 2023 | Offensive Con 2023](https://youtu.be/p1Y2fC9OXMg?si=S1wYyqsE3qhIuSuW)
 
-https://www.youtube.com/watch?v=tY27MsxygUk&t=2458s&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
+[Breaking Into Cybersecurity w Wade Wells 9.30.22 1 PM EST](https://www.youtube.com/watch?v=uG67G9-uZpI)
 
-https://www.youtube.com/watch?v=eI4TvstZOqM&pp=ygUSd2FkZSB3ZWxscyBpbmZvc2Vj
+[Cyber Threat Intelligence 101 Class I teach](https://www.antisyphontraining.com/live-courses-catalog/cyber-threat-intelligence-101-w-wade-wells/)
+
+[Talkin' About Infosec News](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe)
+
+[Cyber Threat Intel 101 video](https://youtu.be/K8TCAMvkIYQ?si=aKR07kB1_Wz6JrH4)
