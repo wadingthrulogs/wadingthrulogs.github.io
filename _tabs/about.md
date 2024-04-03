@@ -6,10 +6,10 @@ order: 4
 
 I hunt for evil inside networks.
 
-My dad built our first computer by dumpster diving in the early 90s. I learned how to spell "windows" in MS-DOS. I have always had a passion for technology, computers and bending rules. Working in cyber security was always a dream of mine. I love the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and most of all knowing that I'm helping a larger cause.
+My dad built our first computer by dumpster diving in the early 90s. I learned how to spell "windows" in MS-DOS. I have always been passionate about technology, computers, and bending the rules. Working in cyber security has always been a dream of mine. I love the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and knowing I'm helping a more significant cause.
 
-I'm currently a Board member on BSides San Diego and do a lot of other work in the San Diego Area.
-Below are some links to videos I'm in, and article I wrote for Black Hills InfoSec
+I'm currently a board member at BSides San Diego and do a lot of other work in the San Diego area.
+Below are some links to videos I'm in and an article I wrote for Black Hills InfoSec
 
 [<img src="/assets/images/bsides.PNG">](https://www.bsidessd.org/)
 
