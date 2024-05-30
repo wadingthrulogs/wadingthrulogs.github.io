@@ -11,78 +11,78 @@ All of San Diego cyber Communities
 
 San Diego has a large Cyber community. This is a complied list of all those communities. 
 
-### BSides San Diego
+# BSides San Diego
  An Information Security conference tha happens every spring. They are 100% volunteer organized event, put on by and for the community
 
 * https://www.bsidessd.org
 * https://www.linkedin.com/company/bsidessd
 * https://twitter.com/BsidesSD
 
-### Cyber Security for Automated Processes and Control Systems
+# Cyber Security for Automated Processes and Control Systems
  This meetup dedicated to all professionals involved in Cyber Security for Automated Processes and Control Systems including security for Operating Technology (OT), Industrial Control Systems (ICS), SCADA Systems, Transportation Systems, Building Control Systems (BCS), and even emerging Industrial Internet of Things (IIoT) systems.
 
 * https://www.meetup.com/san-diego-cyber-security-for-control-systems/
 
-### Cloud Security Alliance 
+# Cloud Security Alliance 
 The Cloud Security Alliance (CSA) is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.
 
 * https://www.meetup.com/cloud-security-alliance-san-diego/
 
-### Defcon 858/619
+# Defcon 858/619
 DEFCON meet up group here in San Diego that meet up that meets monthly
 
 * https://twitter.com/DCG858
 * https://www.dc858.org/
 
 
-### OWASP SD
+# OWASP SD
 The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security. 
 
 * https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/
 
-### InfraGard San Diego
+# InfraGard San Diego
 
 InfraGard is a national non-profit organization serving as a public-private partnership between U.S. businesses and the Federal Bureau of Investigation.
 
 * https://www.infragardsd.org/
 
-### ISACA
+# ISACA
 The San Diego chapter of ISACA is dedicated to providing education, workshops and regular meetings to help promote and elevate the IS audit, control and security professions in the region
 
 * https://isaca-sd.org
 * https://www.linkedin.com/company/isaca-san-diego/
 * https://twitter.com/isaca_sd
 
-### ISC2
+# ISC2
 Conduct outreach to the general community within San Diego County and help increase the awareness and understanding of the information security field.
 
 * https://isc2-san-diego-chapter.org/
 * https://twitter.com/ISC2SD
 
-### ISSA
+# ISSA
 The Information Systems Security Association (ISSA) is an international organization providing educational forums, publications and peer interaction opportunities that enhance the knowledge, skills and professionalism of our members and the information security community at large.
 
 * https://www.linkedin.com/company/san-diego-issa/
 * https://www.sdissa.org/
 
-### Raices Cyber
+# Raices Cyber
 
 The Hispanic, Latino, Latina, LatinX and Our Allies International Association in Cybersecurity
 
 * https://www.raicescyber.org/san-diego-chapter
 	
-### San Diego Cyber Group
+# San Diego Cyber Group
 Meetup with the cyber community in San Diego. Cohosted by David Spark CISO Series Podcast and Rick McElroy.
 
 * https://www.meetup.com/san-diego-cyber-meetup/
 
-### San Diego CISO Round Table
+# San Diego CISO Round Table
 
 The focus of this group is to share current threats, Intel, and concerns as well as mentor the younger/newer CISO’s with in the group. 
 
 *  https://www.sdcisoroundtable.com/
 
-### WiCycs
+# WiCycs
 Women in CyberSecurity (WiCyS) is a non-profit organization dedicated to the recruitment, retention and advancement of women in the cybersecurity field. 
 
 * https://www.wicys.org/wicys-san-diego/
@@ -90,11 +90,11 @@ Women in CyberSecurity (WiCyS) is a non-profit organization dedicated to the rec
 * https://www.linkedin.com/company/wicyssd/
 
 #  Some other IT groups
-#### Google Cloud San Diego Community Meetup
+# Google Cloud San Diego Community Meetup
 * https://www.meetup.com/google-cloud-san-diego/events/297199615/
 * https://events.c2cglobal.com/events/details/c2c-events-san-diego-presents-2gather-google-cloud-san-diego-community-meetup-2023-12-01/
 
-#### San Diego Tech Coffee
+# San Diego Tech Coffee
 * https://www.meetup.com/sandiego-tech-coffee/
 
 # LA Groups 
