@@ -426,9 +426,20 @@ a {
 
 // Training course card (wider)
 .wts-course-card {
-  @extend .wts-card;
+  background: var(--wts-card-bg);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--r-lg);
+  padding: var(--s-5) var(--s-6);
+  box-shadow: var(--shadow-1);
+  transition: border-color 200ms var(--ease-out), box-shadow 200ms var(--ease-out), transform 200ms var(--ease-out);
   display: flex;
   flex-direction: column;
+
+  &:hover {
+    border-color: rgba(0, 201, 255, 0.25);
+    box-shadow: var(--shadow-2);
+    transform: translateY(-2px);
+  }
 }
 
 .wts-course-badge {
