@@ -21,10 +21,10 @@ timezone:
 
 title: WadingThruSecurity                          # the main title
 
-tagline: Wandering through the logs  # it will display as the sub-title
+tagline: CTI · Detection Engineering · Threat Hunting  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Info Sec Blog and Consultating.
+  Security blog and consulting by Wade Wells. Covering cyber threat intelligence, detection engineering, and threat hunting.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
