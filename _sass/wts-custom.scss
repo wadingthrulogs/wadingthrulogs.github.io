@@ -20,6 +20,7 @@
   --wts-n-100:     #f5f5f5;
   --wts-n-200:     #eeeeee;
   --wts-n-400:     #bdbdbd;
+  --wts-n-500:     #9e9e9e;
   --wts-n-600:     #757575;
   --wts-n-700:     #616161;
   --wts-n-800:     #424242;
@@ -81,7 +82,7 @@ body {
   --sidebar-bg:        var(--wts-ink-2);
   --heading-color:     var(--wts-paper);
   --label-color:       var(--wts-fog);
-  --text-muted-color:  var(--wts-n-600);
+  --text-muted-color:  var(--wts-n-500); // n-600 fails WCAG AA on --wts-ink (3.3:1)
   --link-color:        var(--wts-cyan);
   --link-underline-color: var(--wts-sky);
   --border-color:      rgba(255, 255, 255, 0.08);
@@ -289,7 +290,7 @@ a {
 .wts-career-period {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.72rem;
-  color: var(--wts-n-600);
+  color: var(--wts-n-500);
   margin-top: 4px;
 }
 
@@ -497,5 +498,333 @@ a {
 
   .wts-career-dot {
     display: none;
+  }
+}
+
+// ─── About Page: Stats Bar ────────────────────────────────────────────────────
+
+.wts-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--s-4);
+  margin: 0 0 var(--s-7) 0;
+}
+
+.wts-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: var(--s-4) var(--s-5);
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-left: 3px solid var(--wts-cyan);
+  border-radius: 0 var(--r-md) var(--r-md) 0;
+}
+
+.wts-stat-num {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-size: 1.65rem;
+  font-weight: 900;
+  line-height: 1.1;
+  color: var(--wts-paper);
+  letter-spacing: -0.02em;
+}
+
+.wts-stat-label {
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--wts-n-400);
+}
+
+// ─── About Page: Call To Action ───────────────────────────────────────────────
+
+.wts-cta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--s-5);
+  margin: var(--s-5) 0;
+}
+
+.wts-cta-card {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(0, 201, 255, 0.06), rgba(0, 201, 255, 0) 60%), var(--wts-card-bg);
+  border: 1px solid rgba(0, 201, 255, 0.18);
+  border-radius: var(--r-lg);
+  padding: var(--s-5) var(--s-6) var(--s-6);
+  box-shadow: var(--shadow-1);
+  transition: border-color 200ms var(--ease-out), box-shadow 200ms var(--ease-out), transform 200ms var(--ease-out);
+
+  &:hover {
+    border-color: rgba(0, 201, 255, 0.45);
+    box-shadow: var(--shadow-2);
+    transform: translateY(-2px);
+  }
+}
+
+.wts-cta-icon {
+  font-size: 1.25rem;
+  color: var(--wts-cyan);
+  margin-bottom: var(--s-3);
+}
+
+.wts-cta-title {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--wts-paper);
+  margin-bottom: var(--s-2);
+}
+
+.wts-cta-desc {
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: var(--wts-n-400);
+  margin-bottom: var(--s-5);
+  flex: 1;
+}
+
+.wts-btn {
+  align-self: flex-start;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--wts-ink) !important;
+  background: var(--wts-cyan);
+  border-radius: var(--r-pill);
+  padding: 7px 16px;
+  text-decoration: none !important;
+  transition: background 180ms var(--ease-out), box-shadow 180ms var(--ease-out);
+
+  &:hover {
+    background: #4dd8ff;
+    box-shadow: var(--glow-cyan);
+    text-decoration: none !important;
+  }
+}
+
+// ─── About Page: Collapsible Detail Block ─────────────────────────────────────
+
+.wts-details {
+  margin: var(--s-5) 0;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--r-lg);
+  background: rgba(255, 255, 255, 0.02);
+
+  > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: var(--s-4) var(--s-5);
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--wts-cyan);
+    transition: background 180ms var(--ease-out);
+
+    &::-webkit-details-marker { display: none; }
+
+    &::after {
+      content: '+';
+      float: right;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1rem;
+      line-height: 1;
+      transition: transform 200ms var(--ease-out);
+    }
+
+    &:hover { background: rgba(0, 201, 255, 0.06); }
+
+    &:focus-visible {
+      outline: 2px solid var(--wts-cyan);
+      outline-offset: -2px;
+    }
+  }
+
+  &[open] > summary {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+    &::after { content: '\2212'; }
+  }
+
+  > *:not(summary) {
+    padding-left: var(--s-5);
+    padding-right: var(--s-5);
+  }
+
+  .wts-table { margin-top: var(--s-3); }
+}
+
+.wts-details-heading {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--wts-fog);
+  margin: var(--s-5) 0 0 0 !important;
+  border-left: none !important;
+  padding-left: 0 !important;
+}
+
+// ─── About Page: Timeline & Credentials ───────────────────────────────────────
+
+.wts-timeline {
+  margin-top: var(--s-5);
+}
+
+.wts-cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--s-6);
+  margin: var(--s-5) 0;
+}
+
+.wts-subhead {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--wts-cyan);
+  margin: 0 0 var(--s-4) 0 !important;
+  border-left: none !important;
+  padding-left: 0 !important;
+}
+
+.wts-cred-item {
+  padding-left: var(--s-4);
+  border-left: 2px solid rgba(0, 201, 255, 0.25);
+  margin-bottom: var(--s-4);
+
+  &:last-child { margin-bottom: 0; }
+}
+
+.wts-cred-title {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--wts-paper);
+  line-height: 1.3;
+}
+
+.wts-cred-org {
+  font-size: 0.85rem;
+  color: var(--wts-fog);
+  margin-top: 2px;
+}
+
+// ─── About Page: Closing Note ─────────────────────────────────────────────────
+
+.wts-closing {
+  margin-top: var(--s-7);
+  padding: var(--s-5) var(--s-6);
+  background: rgba(0, 201, 255, 0.05);
+  border: 1px solid rgba(0, 201, 255, 0.18);
+  border-radius: var(--r-lg);
+
+  p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--wts-fog);
+  }
+}
+
+// ─── Card fill behaviour ──────────────────────────────────────────────────────
+// Cards sit in equal-height grid tracks; make links settle at the bottom so
+// rows of cards with uneven copy still line up.
+
+.wts-grid > .wts-card {
+  display: flex;
+  flex-direction: column;
+}
+
+// ─── Reduced motion ───────────────────────────────────────────────────────────
+
+@media (prefers-reduced-motion: reduce) {
+  .wts-card,
+  .wts-course-card,
+  .wts-cta-card {
+    transition: none;
+
+    &:hover { transform: none; }
+  }
+}
+
+// ─── Mobile: new components ───────────────────────────────────────────────────
+
+@media (max-width: 768px) {
+  .wts-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--s-3);
+  }
+
+  .wts-stat {
+    padding: var(--s-3) var(--s-4);
+  }
+
+  .wts-stat-num {
+    font-size: 1.35rem;
+  }
+
+  .wts-cta-grid,
+  .wts-cols {
+    grid-template-columns: 1fr;
+  }
+
+  .wts-details > *:not(summary) {
+    padding-left: var(--s-3);
+    padding-right: var(--s-3);
+  }
+}
+
+// ─── About Page: Hero Photo Layout ────────────────────────────────────────────
+// Selectors are two-class (0,2,0) so they outrank Chirpy's `.post-content img`
+// (0,1,1) rules for border-radius / margin / shadow.
+
+.wts-hero .wts-hero-inner {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s-6);
+}
+
+.wts-hero .wts-hero-photo {
+  flex: 0 0 auto;
+  width: 144px;
+  height: 144px;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center center;
+  border: 2px solid rgba(0, 201, 255, 0.35);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+  background: var(--wts-ink-2);
+}
+
+.wts-hero .wts-hero-text {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+@media (max-width: 768px) {
+  .wts-hero .wts-hero-inner {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--s-5);
+  }
+
+  .wts-hero .wts-hero-photo {
+    width: 120px;
+    height: 120px;
+  }
+
+  .wts-hero .wts-hero-bio {
+    text-align: left;
+  }
+
+  .wts-hero .wts-social-links {
+    justify-content: center;
   }
 }
