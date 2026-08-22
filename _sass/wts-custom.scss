@@ -73,46 +73,32 @@ a {
   font-family: 'Roboto Slab', Georgia, serif !important;
 }
 
-// ─── About Page ───────────────────────────────────────────────────────────────
-// The page is plain markdown — prose, headings, and lists — styled by the
-// theme. The portrait is the only element needing a rule of its own.
+// ─── About Page ───────────────────────────────────────────────────────
+// The page is plain markdown, styled by the theme. The portrait is the only
+// element needing a rule.
 //
-// Chirpy's content-image refactor wraps <img> in
-// <a class="popup img-link … shimmer"> and moves author-supplied classes onto
-// that anchor, so `.wts-portrait` can land on either the anchor or the image.
-// Both are styled, and the inner image is sized to fill whichever is the box.
+// It is a <div> with a background image rather than an <img>: Chirpy's
+// content-image refactor rewrites <img> tags in post content, wrapping them in
+// <a class="popup img-link shimmer"> and moving author classes onto that
+// anchor. A <div> is left alone, so the styling is predictable.
 
-.post-content .wts-portrait,
 .wts-portrait {
   display: block;
   width: 120px;
   height: 120px;
-  max-width: 120px;
-  margin: 0 0 24px 0 !important; // beats Chirpy's auto-centering
+  margin: 0 0 24px 0;
   border-radius: 50%;
-  overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.08);
-  background: var(--wts-ink-2);
-  box-shadow: none;
-}
-
-.post-content .wts-portrait img,
-.wts-portrait img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  max-width: none;
-  margin: 0 !important;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: none;
+  background-color: var(--wts-ink-2);
+  background-image: url('/assets/images/wade_headshot.webp');
+  background-size: cover;
+  background-position: center 45%;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 768px) {
-  .post-content .wts-portrait,
   .wts-portrait {
     width: 92px;
     height: 92px;
-    max-width: 92px;
   }
 }

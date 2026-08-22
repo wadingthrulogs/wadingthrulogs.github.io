@@ -4,9 +4,7 @@ order: 4
 description: Wade Wells — threat detection engineering manager, CTI instructor at Antisyphon Training and National University, co-host of Random but Memorable, BSides San Diego board member, and organizer of DEATHcon San Diego.
 ---
 
-<img class="wts-portrait" src="/assets/images/wade_headshot.webp"
-     alt="Portrait of Wade Wells" width="144" height="144"
-     loading="eager" decoding="async">
+<div class="wts-portrait" role="img" aria-label="Portrait of Wade Wells"></div>
 
 Welcome! My name is Wade Wells, and I hunt for evil inside networks.
 
