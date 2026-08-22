@@ -65,8 +65,12 @@ Cheers,
 
 ## Writing
 
-- **Common Cyber Threats** - Black Hills Information Security blog, 2025. Co-authored with Dieter Smith, Blake Regan, and Matthew Thomas.
-- **Threat Hunting: An Active Search for Risks** - chapter in the InfoSec Survival Guide 2.0, Black Hills InfoSec, 2023. ([launch event](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294))
+I've written an article for four of Black Hills InfoSec's [Infosec Survival Guides](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides) — the community zines they hand out by the thousand at conferences.
+
+- **Threat Hunting: An Active Search for Risks** - [Yellow Book](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-yellow), Black Hills InfoSec. ([launch event](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294))
+- **Detection Engineering** - [Blue Book, SOC Analyst](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-blue-book-soc-analyst-0), Black Hills InfoSec.
+- **Know Your Enemy: Cyber Threat Actor Profiling** - [Orange Book, Incident Response](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-orange-book-incident-response), Black Hills InfoSec.
+- **Common Cyber Threats** - [Green Book](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-green), Black Hills InfoSec. Written with Dieter Smith, Blake Regan, and Matthew Thomas.
 
 ## Education &amp; Certifications
 
