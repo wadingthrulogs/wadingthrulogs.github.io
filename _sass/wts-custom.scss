@@ -828,3 +828,25 @@ a {
     justify-content: center;
   }
 }
+
+// ─── About Page: CTA button row ───────────────────────────────────────────────
+
+.wts-cta-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-2);
+  align-items: center;
+}
+
+.wts-btn-ghost {
+  color: var(--wts-cyan) !important;
+  background: transparent;
+  border: 1px solid rgba(0, 201, 255, 0.45);
+
+  &:hover {
+    background: rgba(0, 201, 255, 0.1);
+    border-color: rgba(0, 201, 255, 0.75);
+    box-shadow: none;
+    color: var(--wts-cyan) !important;
+  }
+}
