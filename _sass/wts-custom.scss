@@ -850,3 +850,176 @@ a {
     color: var(--wts-cyan) !important;
   }
 }
+
+// ─── About Page: Grouped Experience Timeline ──────────────────────────────────
+// One item per employer; multiple roles nest inside so promotions read as a
+// progression rather than as separate jobs.
+
+.wts-tl {
+  position: relative;
+  margin: var(--s-5) 0 0 0;
+  padding-left: var(--s-2);
+}
+
+.wts-tl-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0 var(--s-5);
+  padding-bottom: var(--s-6);
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.wts-tl-marker {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 6px;
+
+  &::before {
+    content: '';
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--wts-ink);
+    border: 2px solid rgba(0, 201, 255, 0.45);
+    flex-shrink: 0;
+    z-index: 1;
+  }
+
+  &::after {
+    content: '';
+    width: 1px;
+    flex: 1;
+    background: rgba(0, 201, 255, 0.18);
+    margin-top: 5px;
+  }
+}
+
+.wts-tl-item:last-child .wts-tl-marker::after {
+  display: none;
+}
+
+// Current employer gets a filled, glowing marker
+.wts-tl-current .wts-tl-marker::before {
+  background: var(--wts-cyan);
+  border-color: var(--wts-cyan);
+  box-shadow: 0 0 0 4px rgba(0, 201, 255, 0.15);
+}
+
+.wts-tl-body {
+  min-width: 0;
+}
+
+.wts-tl-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s-2) var(--s-4);
+  margin-bottom: var(--s-3);
+}
+
+.wts-tl-org {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--wts-paper);
+  line-height: 1.25;
+}
+
+.wts-tl-via {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--wts-n-500);
+}
+
+.wts-tl-span {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--wts-cyan);
+  white-space: nowrap;
+}
+
+.wts-tl-roles {
+  border-left: 2px solid rgba(255, 255, 255, 0.07);
+  padding-left: var(--s-4);
+}
+
+.wts-tl-role {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2px var(--s-4);
+  padding: 3px 0;
+}
+
+.wts-tl-role-title {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--wts-fog);
+  line-height: 1.4;
+}
+
+.wts-tl-role-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--wts-n-500);
+  white-space: nowrap;
+}
+
+.wts-tl-notes {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--wts-n-400);
+  margin: var(--s-3) 0 0 0;
+  padding-left: var(--s-4);
+}
+
+// Credential date line
+.wts-cred-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--wts-n-500);
+  margin-top: 3px;
+}
+
+// With the <hr> separators removed, sections carry their own breathing room
+.page-about .post-content h2 {
+  margin-top: var(--s-8);
+}
+
+.page-about .post-content > h2:first-of-type {
+  margin-top: var(--s-7);
+}
+
+@media (max-width: 768px) {
+  .wts-tl {
+    padding-left: 0;
+  }
+
+  .wts-tl-item {
+    grid-template-columns: auto 1fr;
+    gap: 0 var(--s-4);
+  }
+
+  .wts-tl-head {
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .wts-tl-role {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .wts-tl-notes {
+    padding-left: 0;
+  }
+}

@@ -1,7 +1,7 @@
 ---
 icon: fas fa-info-circle
 order: 4
-description: Wade Wells — Manager of Threat Detection Engineering, CTI instructor at Antisyphon Training, co-host of 1Password's Random but Memorable, BSides San Diego board member, and organizer of DEATHcon San Diego.
+description: Wade Wells — Manager of Threat Detection Engineering at 1Password, CTI instructor at Antisyphon Training and National University, co-host of Random but Memorable, BSides San Diego board member, and organizer of DEATHcon San Diego.
 ---
 
 <div class="wts-hero">
@@ -12,9 +12,12 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
          width="144" height="144" loading="eager" decoding="async">
     <div class="wts-hero-text">
       <div class="wts-hero-name">Wade Wells</div>
-      <div class="wts-hero-title">Manager, Threat Detection Engineering &nbsp;·&nbsp; CTI Instructor &nbsp;·&nbsp; Podcast Co-Host &nbsp;·&nbsp; BSides San Diego &amp; DEATHcon SD</div>
+      <div class="wts-hero-title">Manager, Threat Detection Engineering at 1Password</div>
       <p class="wts-hero-bio">
-        I hunt for evil inside networks. My dad built our first computer by dumpster diving in the early 90s — I learned to spell "windows" in MS-DOS before I could spell most other words. I've spent 8+ years doing detection engineering, threat hunting, and cyber threat intelligence in financial-sector environments, and I teach CTI to anyone who'll sit still long enough to listen.
+        I hunt for evil inside networks. My dad built our first computer by dumpster diving in the early 90s — I learned to spell "windows" in MS-DOS before I could spell most other words. Ten years later I'm still chasing the same thing: the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and knowing it's for a bigger cause.
+      </p>
+      <p class="wts-hero-bio">
+        These days I manage threat detection engineering at 1Password, teach cyber threat intelligence at Antisyphon and National University, co-host <em>Random but Memorable</em>, and run DEATHcon San Diego.
       </p>
       <div class="wts-social-links">
         <a class="wts-social-link" href="https://twitter.com/WadingThruLogs" target="_blank" rel="noopener">
@@ -39,8 +42,8 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
 
 <div class="wts-stats">
   <div class="wts-stat">
-    <span class="wts-stat-num">8+</span>
-    <span class="wts-stat-label">Years in detection &amp; response</span>
+    <span class="wts-stat-num">10+</span>
+    <span class="wts-stat-label">Years in security operations</span>
   </div>
   <div class="wts-stat">
     <span class="wts-stat-num">2022</span>
@@ -86,82 +89,143 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
 
 </div>
 
----
+## Experience
 
-## Career History
+<div class="wts-tl">
 
-<div class="wts-timeline">
-
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Manager, Threat Detection Engineering</div>
-      <div class="wts-career-org">Fortune 50 Financial Institution</div>
-      <div class="wts-career-period">Current</div>
+  <div class="wts-tl-item wts-tl-current">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">1Password</span>
+        <span class="wts-tl-span">Mar 2025 – Present</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Manager, Threat Detection Engineering</span>
+          <span class="wts-tl-role-date">Jul 2026 – Present</span>
+        </div>
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Staff Detection &amp; Response Engineer</span>
+          <span class="wts-tl-role-date">Mar 2025 – Jul 2026</span>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Lead Detection &amp; Response Engineer</div>
-      <div class="wts-career-org">Financial Services</div>
-      <div class="wts-career-period">Previous</div>
+  <div class="wts-tl-item">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">Fannie Mae</span>
+        <span class="wts-tl-span">Jan 2023 – Mar 2025</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Lead Cybersecurity Threat Detection Engineer</span>
+          <span class="wts-tl-role-date">2 yrs 3 mos</span>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">CTI Instructor</div>
-      <div class="wts-career-org">Antisyphon Training</div>
-      <div class="wts-career-period">2022 – Present</div>
+  <div class="wts-tl-item">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">Kyriba</span>
+        <span class="wts-tl-span">Feb 2019 – Jan 2023</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Senior Security Engineer</span>
+          <span class="wts-tl-role-date">Mar 2021 – Jan 2023</span>
+        </div>
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Security Engineer</span>
+          <span class="wts-tl-role-date">Feb 2019 – Mar 2021</span>
+        </div>
+      </div>
+      <p class="wts-tl-notes">Aligned network defenses to MITRE ATT&amp;CK, led threat intel, ran threat hunts, built detections, and hardened systems.</p>
     </div>
   </div>
 
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Co-Host</div>
-      <div class="wts-career-org">Random but Memorable — 1Password</div>
-      <div class="wts-career-period">Present</div>
+  <div class="wts-tl-item">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">Sempra Energy <span class="wts-tl-via">via TEKsystems</span></span>
+        <span class="wts-tl-span">Jan 2018 – Feb 2019</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Security Analyst</span>
+          <span class="wts-tl-role-date">1 yr 2 mos</span>
+        </div>
+      </div>
+      <p class="wts-tl-notes">24×7 operational security support, incident response and forensic acquisition for the CIRT, and SOC process documentation.</p>
     </div>
   </div>
 
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Organizer</div>
-      <div class="wts-career-org">DEATHcon San Diego</div>
-      <div class="wts-career-period">Ongoing</div>
+  <div class="wts-tl-item">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">Security On-Demand</span>
+        <span class="wts-tl-span">Feb 2016 – Jan 2018</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Cyber Security Analyst</span>
+          <span class="wts-tl-role-date">Mar 2017 – Jan 2018</span>
+        </div>
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Cyber Security Operator</span>
+          <span class="wts-tl-role-date">Feb 2016 – Mar 2017</span>
+        </div>
+      </div>
+      <p class="wts-tl-notes">Where it started: triaging alerts across a multi-client 24/7 SOC, running investigations, and learning to recognize attacker tradecraft in the noise.</p>
     </div>
   </div>
 
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Board Member</div>
-      <div class="wts-career-org">BSides San Diego</div>
-      <div class="wts-career-period">2020 – Present</div>
-    </div>
-  </div>
-
-  <div class="wts-career-item">
-    <div class="wts-career-dot"></div>
-    <div>
-      <div class="wts-career-role">Founder &amp; Principal Consultant</div>
-      <div class="wts-career-org">Wading Thru Security</div>
-      <div class="wts-career-period">Ongoing</div>
+  <div class="wts-tl-item">
+    <div class="wts-tl-marker"></div>
+    <div class="wts-tl-body">
+      <div class="wts-tl-head">
+        <span class="wts-tl-org">CARI.net</span>
+        <span class="wts-tl-span">May 2015 – Feb 2016</span>
+      </div>
+      <div class="wts-tl-roles">
+        <div class="wts-tl-role">
+          <span class="wts-tl-role-title">Junior System Administrator</span>
+          <span class="wts-tl-role-date">10 mos</span>
+        </div>
+      </div>
     </div>
   </div>
 
 </div>
 
----
-
-## Community
+## Teaching &amp; Community
 
 <div class="wts-grid">
+
+  <div class="wts-card">
+    <div class="wts-card-year">2025 – Present</div>
+    <div class="wts-card-title">Adjunct Professor</div>
+    <div class="wts-card-venue">National University</div>
+    <p class="wts-card-desc">Teaching cybersecurity in the San Diego metro area.</p>
+  </div>
+
+  <div class="wts-card">
+    <div class="wts-card-year">2022 – Present</div>
+    <div class="wts-card-title">CTI Instructor</div>
+    <div class="wts-card-venue">Antisyphon Training</div>
+    <p class="wts-card-desc">Author and instructor for Cyber Threat Intelligence 101, in one- and two-day formats.</p>
+    <div class="wts-card-links">
+      <a class="wts-card-link" href="https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-with-wade-wells/" target="_blank" rel="noopener">Courses →</a>
+    </div>
+  </div>
 
   <div class="wts-card">
     <div class="wts-card-year">Organizer</div>
@@ -183,9 +247,14 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
     </div>
   </div>
 
-</div>
+  <div class="wts-card">
+    <div class="wts-card-year">2022 – 2024</div>
+    <div class="wts-card-title">Cyber Security Mentor</div>
+    <div class="wts-card-venue">Springboard</div>
+    <p class="wts-card-desc">Two years mentoring career changers into their first security roles.</p>
+  </div>
 
----
+</div>
 
 ## Training Courses
 
@@ -211,8 +280,6 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
   </div>
 
 </div>
-
----
 
 ## Conference Talks
 
@@ -276,8 +343,6 @@ description: Wade Wells — Manager of Threat Detection Engineering, CTI instruc
   </div>
 
 </div>
-
----
 
 ## Media &amp; Appearances
 
@@ -478,8 +543,6 @@ I co-host 1Password's <em>Random but Memorable</em>, contribute regularly to the
 
 </details>
 
----
-
 ## Published Works
 
 <div class="wts-grid">
@@ -504,8 +567,6 @@ I co-host 1Password's <em>Random but Memorable</em>, contribute regularly to the
 
 </div>
 
----
-
 ## Credentials
 
 <div class="wts-cols">
@@ -515,20 +576,29 @@ I co-host 1Password's <em>Random but Memorable</em>, contribute regularly to the
     <div class="wts-cred-item">
       <div class="wts-cred-title">M.S. Cybersecurity</div>
       <div class="wts-cred-org">Georgia Institute of Technology</div>
+      <div class="wts-cred-date">2019 – 2023</div>
     </div>
     <div class="wts-cred-item">
-      <div class="wts-cred-title">B.S. Cybersecurity</div>
-      <div class="wts-cred-org">Georgia Institute of Technology</div>
+      <div class="wts-cred-title">B.S. Information Technology / Cyber Security</div>
+      <div class="wts-cred-org">Colorado State University — Global Campus</div>
+      <div class="wts-cred-date">2017 – 2018</div>
+    </div>
+    <div class="wts-cred-item">
+      <div class="wts-cred-title">A.S. Information Technology</div>
+      <div class="wts-cred-org">San Diego City College</div>
+      <div class="wts-cred-date">2015 – 2016</div>
     </div>
   </div>
 
   <div>
     <h3 class="wts-subhead">Certifications</h3>
     <div class="wts-chip-grid">
+      <span class="wts-chip">GIAC GMON</span>
+      <span class="wts-chip">Recorded Future Certified Analyst</span>
       <span class="wts-chip">CompTIA CySA+</span>
       <span class="wts-chip">CompTIA Security+</span>
       <span class="wts-chip">CompTIA Network+</span>
-      <span class="wts-chip">GIAC GMON</span>
+      <span class="wts-chip">MTA: Windows Server Admin Fundamentals</span>
       <span class="wts-chip">ITIL Foundation</span>
       <span class="wts-chip">TestOut Security Pro</span>
     </div>
