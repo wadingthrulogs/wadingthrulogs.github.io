@@ -4,441 +4,75 @@ order: 4
 description: Wade Wells — threat detection engineering manager, CTI instructor at Antisyphon Training and National University, co-host of Random but Memorable, BSides San Diego board member, and organizer of DEATHcon San Diego.
 ---
 
-<div class="wts-hero">
-  <img class="wts-hero-photo"
-       src="/assets/images/wade_headshot.webp"
-       alt="Portrait of Wade Wells"
-       width="144" height="144" loading="eager" decoding="async">
-  <div class="wts-hero-text">
-    <div class="wts-hero-name">Wade Wells</div>
-    <p class="wts-hero-title">Manager, Threat Detection Engineering</p>
-  </div>
-</div>
+<img class="wts-portrait" src="/assets/images/wade_headshot.webp"
+     alt="Portrait of Wade Wells" width="144" height="144"
+     loading="eager" decoding="async">
 
-<p class="wts-lede">
-  I hunt for evil inside networks. My dad built our first computer by dumpster diving in the early 90s — I learned to spell "windows" in MS-DOS before I could spell most other words. Ten years in security operations later, I'm still chasing the same thing.
-</p>
+Welcome! My name is Wade Wells, and I hunt for evil inside networks.
 
-<p class="wts-lede">
-  I teach cyber threat intelligence at Antisyphon and National University, co-host <em>Random but Memorable</em>, and run DEATHcon San Diego.
-</p>
+My dad built our first computer by dumpster diving in the early 90s, and I learned how to spell "windows" in MS-DOS before I could spell most other words. I've always been passionate about technology, computers, and bending the rules, so working in cyber security was pretty much always the dream. What keeps me here is the continuous hunt for knowledge, the thrill of falling down the rabbit hole, and knowing I'm helping a more significant cause.
 
-<div class="wts-links">
-  <a href="mailto:wade.wells@WadingThruSecurity.com">Email</a>
-  <a href="https://www.linkedin.com/in/WadingThruLogs" target="_blank" rel="noopener">LinkedIn</a>
-  <a href="https://twitter.com/WadingThruLogs" target="_blank" rel="noopener">Twitter</a>
-  <a href="https://github.com/WadingThruLogs" target="_blank" rel="noopener">GitHub</a>
-  <a href="https://www.wadingthrusecurity.com" target="_blank" rel="noopener">Wading Thru Security</a>
-</div>
+These days I manage a threat detection engineering team. I started out in 2016 triaging alerts in a 24/7 SOC for a managed security provider, and I've spent the decade since doing detection engineering, threat hunting, and cyber threat intelligence — by way of a hosting provider, an energy utility, a fintech SaaS company, a Fortune 500 financial services firm, and now a security software company. If you want the formal version of all that, my [LinkedIn](https://www.linkedin.com/in/WadingThruLogs) has it.
 
-## Work with me
+I also teach. I wrote and run [Cyber Threat Intelligence 101](https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-with-wade-wells/) for [Antisyphon Training](https://www.antisyphontraining.com/), available as a [one-day](https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-with-wade-wells/) or [two-day](https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-2-day-version-with-wade-wells/) class — it's built around frameworks and the reasoning behind them rather than a tour of tools. On top of that I'm an adjunct professor at National University, and I spent two years mentoring career changers into their first security roles through Springboard.
 
-<div class="wts-rows">
+On the community side, I sit on the board of [BSides San Diego](https://www.bsidessd.org/) and I organize the San Diego site of [DEATHcon](https://deathcon.io/), the hands-on Detection Engineering and Threat Hunting conference that runs every November across a couple dozen cities at once. I co-host [Random but Memorable](https://podcasts.apple.com/us/podcast/random-but-memorable/id1435486599), and I turn up regularly on [Talkin' About Infosec News](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe) with the Black Hills crew.
 
-  <div class="wts-row">
-    <div class="wts-row-key">Training</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Cyber Threat Intelligence 101</div>
-      <div class="wts-row-sub">
-        Antisyphon Training —
-        <a href="https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-with-wade-wells/" target="_blank" rel="noopener">1 day</a> or
-        <a href="https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-2-day-version-with-wade-wells/" target="_blank" rel="noopener">2 day</a>
-      </div>
-    </div>
-  </div>
+When I'm not doing any of that, I'm probably reading something, walking the dog, or arguing with a detection rule that refuses to behave. Below you'll find links to recordings of most of the talks, podcasts, and webcasts I've had the pleasure to give.
 
-  <div class="wts-row">
-    <div class="wts-row-key">Speaking</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Conferences, panels, webcasts, podcasts</div>
-      <div class="wts-row-sub"><a href="mailto:wade.wells@WadingThruSecurity.com?subject=Speaking%20inquiry">Get in touch</a></div>
-    </div>
-  </div>
+Got a detection problem, a CTI program that isn't landing, or a conference that needs a speaker? [Email me](mailto:wade.wells@WadingThruSecurity.com) — I answer.
 
-  <div class="wts-row">
-    <div class="wts-row-key">Consulting</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Detection programs, threat hunting, CTI</div>
-      <div class="wts-row-sub"><a href="https://www.wadingthrusecurity.com" target="_blank" rel="noopener">Wading Thru Security</a></div>
-    </div>
-  </div>
+Cheers,
 
-</div>
+[Wade](mailto:wade.wells@WadingThruSecurity.com) // [WadingThruLogs](https://twitter.com/WadingThruLogs)
 
-## Experience
+## Training
 
-<div class="wts-rows">
+- **[Cyber Threat Intelligence 101](https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-with-wade-wells/)** — Antisyphon Training, 8 hours. Frameworks, processes, and the logic behind CTI. Includes 6-month Cyber Range access and a certificate of completion. ([preview](https://youtu.be/K8TCAMvkIYQ))
+- **[Cyber Threat Intelligence 101 — 2 Day](https://www.antisyphontraining.com/product/cyber-threat-intelligence-101-2-day-version-with-wade-wells/)** — Antisyphon Training. Same foundation, deeper dives and more lab time. Good fit for teams.
 
-  <div class="wts-row">
-    <div class="wts-row-key">2026 —</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Manager, Threat Detection Engineering</div>
-      <div class="wts-row-sub">Security software company</div>
-    </div>
-  </div>
+## Conference Talks
 
-  <div class="wts-row">
-    <div class="wts-row-key">2025 – 2026</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Staff Detection &amp; Response Engineer</div>
-      <div class="wts-row-sub">Security software company</div>
-    </div>
-  </div>
+- **[SOC Summit (2026)](https://www.antisyphontraining.com/event/soc-summit/)** - Speaker, "Augmented Detection Engineering" ([video](https://www.youtube.com/watch?v=DeLTjZAmki0))
+- **Wild West Hackin' Fest, Deadwood (2024)** - Closing Keynote
+- **[Blue Team Con (2024)](https://blueteamcon.com/directory/maturing-sec-ops-with-detection-as-code/)** - Speaker with David French, "Maturing Sec-Ops with Detection as Code"
+- **[OffensiveCon (2023)](https://youtu.be/p1Y2fC9OXMg?si=S1wYyqsE3qhIuSuW)** - Panelist, "Red Team Rants"
+- **[GrimmCon (2020)](https://www.youtube.com/watch?v=Z9m9BLwRYfo)** - Speaker, "Mapping Your Network to MITRE ATT&CK"
+- **[Wild West Hackin' Fest (2020, virtual)](https://youtu.be/eI4TvstZOqM)** - Speaker, "Mapping and Testing Your Network to ATT&CK with Free Tools"
+- **[BSides San Diego](https://www.bsidessd.org/)** - Board member and recurring speaker since 2020
+- **[Blue Team Con speaker directory](https://blueteamcon.com/directory/wade-wells/)** - Speaking since 2022
 
-  <div class="wts-row">
-    <div class="wts-row-key">2023 – 2025</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Lead Cybersecurity Threat Detection Engineer</div>
-      <div class="wts-row-sub">Fortune 500 financial services</div>
-    </div>
-  </div>
+## Podcast Appearances
 
-  <div class="wts-row">
-    <div class="wts-row-key">2021 – 2023</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Senior Security Engineer</div>
-      <div class="wts-row-sub">Fintech SaaS</div>
-    </div>
-  </div>
+- [Random but Memorable](https://podcasts.apple.com/us/podcast/random-but-memorable/id1435486599) - co-host, ongoing
+- [Talkin' About Infosec News](https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe) - regular contributor, ongoing
+- [Detection Engineering Dispatch (Ep. 37) - "Maturing SecOps with Detection-as-Code"](https://www.youtube.com/watch?v=fN3EcY9kvis) - 2024
+- [Hacker History - "The History of Wade Wells"](https://hackerhistory.com/podcast/the-history-of-wade-wells/) - 2024
+- [Cybersecurity Defenders (Ep. 124) - "CTI & Detection Engineering"](https://www.youtube.com/watch?v=jSzQr2IL5EI) - 2024
+- [Team Cymru - "Innovative Deception Strategies for Blue Teams," Black Hat edition](https://www.team-cymru.com/podcast/cybersecurity-threat-detection-engineer-expert-wade-wells-on-innovative-deception-strategies-for-blue-teams-black-hat-edition) - 2024
+- [Simply Defensive (S1, Ep. 2) - "Decoding Detection As Code"](https://simplydefensive.transistor.fm/s1/2) - 2024, former co-host
 
-  <div class="wts-row">
-    <div class="wts-row-key">2019 – 2021</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Security Engineer</div>
-      <div class="wts-row-sub">Fintech SaaS</div>
-    </div>
-  </div>
+## Webcasts &amp; Video
 
-  <div class="wts-row">
-    <div class="wts-row-key">2018 – 2019</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Security Analyst</div>
-      <div class="wts-row-sub">Energy utility, on contract</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2016 – 2018</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Cyber Security Analyst, then Operator</div>
-      <div class="wts-row-sub">Managed security provider — where it started, in a 24/7 SOC</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2015 – 2016</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Junior System Administrator</div>
-      <div class="wts-row-sub">Hosting provider</div>
-    </div>
-  </div>
-
-</div>
-
-## Teaching &amp; community
-
-<div class="wts-rows">
-
-  <div class="wts-row">
-    <div class="wts-row-key">2025 —</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Adjunct Professor</div>
-      <div class="wts-row-sub">National University</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2022 —</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">CTI Instructor</div>
-      <div class="wts-row-sub">Antisyphon Training</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">Ongoing</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Organizer, DEATHcon San Diego</div>
-      <div class="wts-row-sub"><a href="https://deathcon.io/" target="_blank" rel="noopener">deathcon.io</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2020 —</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Board member, BSides San Diego</div>
-      <div class="wts-row-sub"><a href="https://www.bsidessd.org/" target="_blank" rel="noopener">bsidessd.org</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2022 – 2024</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Cyber Security Mentor</div>
-      <div class="wts-row-sub">Springboard</div>
-    </div>
-  </div>
-
-</div>
-
-## Talks &amp; appearances
-
-<div class="wts-rows">
-
-  <div class="wts-row">
-    <div class="wts-row-key">Ongoing</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Random but Memorable — co-host</div>
-      <div class="wts-row-sub"><a href="https://podcasts.apple.com/us/podcast/random-but-memorable/id1435486599" target="_blank" rel="noopener">Listen</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">Ongoing</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Talkin' About Infosec News — regular</div>
-      <div class="wts-row-sub">Black Hills InfoSec — <a href="https://open.spotify.com/show/5JcgajysqCIYNPIR9ICcFe" target="_blank" rel="noopener">Listen</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2026</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Augmented Detection Engineering</div>
-      <div class="wts-row-sub">SOC Summit — <a href="https://www.youtube.com/watch?v=DeLTjZAmki0" target="_blank" rel="noopener">Watch</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2024</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Closing keynote</div>
-      <div class="wts-row-sub">Wild West Hackin' Fest, Deadwood</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2024</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Maturing Sec-Ops with Detection as Code</div>
-      <div class="wts-row-sub">Blue Team Con, with David French — <a href="https://blueteamcon.com/directory/maturing-sec-ops-with-detection-as-code/" target="_blank" rel="noopener">Session</a></div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2024</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">The History of Wade Wells</div>
-      <div class="wts-row-sub">Hacker History — <a href="https://hackerhistory.com/podcast/the-history-of-wade-wells/" target="_blank" rel="noopener">Listen</a></div>
-    </div>
-  </div>
-
-</div>
-
-<details class="wts-details">
-  <summary>Everything else — 20 more talks, podcasts and videos</summary>
-
-  <div class="wts-rows">
-
-    <div class="wts-row">
-      <div class="wts-row-key">2026</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Turn Cybersecurity Headlines into Action</div>
-        <div class="wts-row-sub">Antisyphon Anti-Cast — <a href="https://www.youtube.com/watch?v=ZD3LkbnLOVs" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2025</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Cyber Career Secrets: Landing Big Roles &amp; Leveling Up</div>
-        <div class="wts-row-sub">GingerHacker — <a href="https://www.youtube.com/watch?v=B6oSBXhhb3Y" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Innovative Deception Strategies for Blue Teams</div>
-        <div class="wts-row-sub">Team Cymru, Black Hat edition — <a href="https://www.team-cymru.com/podcast/cybersecurity-threat-detection-engineer-expert-wade-wells-on-innovative-deception-strategies-for-blue-teams-black-hat-edition" target="_blank" rel="noopener">Listen</a> · <a href="https://www.youtube.com/watch?v=z2VT7E2BCd4" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Maturing SecOps with Detection-as-Code (Ep 37)</div>
-        <div class="wts-row-sub">Detection Engineering Dispatch, Anvilogic — <a href="https://www.youtube.com/watch?v=fN3EcY9kvis" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">CTI &amp; Detection Engineering (#124)</div>
-        <div class="wts-row-sub">Cybersecurity Defenders, LimaCharlie — <a href="https://www.youtube.com/watch?v=jSzQr2IL5EI" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Defender Fridays</div>
-        <div class="wts-row-sub">LimaCharlie — <a href="https://www.youtube.com/watch?v=pECZvaryFe8" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Cyber Threat Intel Fireside</div>
-        <div class="wts-row-sub">Simply Cyber — <a href="https://www.youtube.com/watch?v=vS5JxctFzaw" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Threat Models, Landscape, and Profiles OH MY</div>
-        <div class="wts-row-sub">Antisyphon — <a href="https://www.youtube.com/watch?v=kfM8wXaVMVo" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2024</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Decoding Detection As Code (S1: E2)</div>
-        <div class="wts-row-sub">Simply Defensive, former co-host — <a href="https://simplydefensive.transistor.fm/s1/2" target="_blank" rel="noopener">Listen</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2023</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Red Team Rants — panel</div>
-        <div class="wts-row-sub">OffensiveCon — <a href="https://youtu.be/p1Y2fC9OXMg?si=S1wYyqsE3qhIuSuW" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2023</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Detection as Code (DaC)</div>
-        <div class="wts-row-sub">Null:404 Cyber Security — <a href="https://www.youtube.com/watch?v=6buGZOt-TVo" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2023</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Getting Started with CTI</div>
-        <div class="wts-row-sub">Antisyphon — <a href="https://youtu.be/K8TCAMvkIYQ" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2022</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Triad of Success: Education, Experience, Networking</div>
-        <div class="wts-row-sub">Antisyphon Anti-Cast — <a href="https://www.youtube.com/watch?v=tY27MsxygUk" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2022</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Breaking Into Cybersecurity</div>
-        <div class="wts-row-sub"><a href="https://www.youtube.com/watch?v=uG67G9-uZpI" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2022 —</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Blue Team Con speaker</div>
-        <div class="wts-row-sub"><a href="https://blueteamcon.com/directory/wade-wells/" target="_blank" rel="noopener">Directory</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2020</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Mapping Your Network to MITRE ATT&amp;CK</div>
-        <div class="wts-row-sub">GrimmCon — <a href="https://www.youtube.com/watch?v=Z9m9BLwRYfo" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-    <div class="wts-row">
-      <div class="wts-row-key">2020</div>
-      <div class="wts-row-main">
-        <div class="wts-row-title">Mapping and Testing Your Network to ATT&amp;CK with Free Tools</div>
-        <div class="wts-row-sub">Wild West Hackin' Fest, virtual — <a href="https://youtu.be/eI4TvstZOqM" target="_blank" rel="noopener">Watch</a></div>
-      </div>
-    </div>
-
-  </div>
-
-</details>
+- [Turn Cybersecurity Headlines into Action](https://www.youtube.com/watch?v=ZD3LkbnLOVs) - Antisyphon Anti-Cast, 2026
+- [Cyber Career Secrets: Landing Big Roles & Leveling Up Your Skills](https://www.youtube.com/watch?v=B6oSBXhhb3Y) - GingerHacker, 2025
+- [Defender Fridays](https://www.youtube.com/watch?v=pECZvaryFe8) - LimaCharlie, 2024
+- [Cyber Threat Intel Fireside](https://www.youtube.com/watch?v=vS5JxctFzaw) - Simply Cyber, 2024
+- [Threat Models, Landscape, and Profiles OH MY](https://www.youtube.com/watch?v=kfM8wXaVMVo) - Antisyphon, 2024
+- [Innovative Deception Strategies for Blue Teams](https://www.youtube.com/watch?v=z2VT7E2BCd4) - Team Cymru, 2024
+- [Detection as Code (DaC)](https://www.youtube.com/watch?v=6buGZOt-TVo) - Null:404 Cyber Security, 2023
+- [Getting Started with CTI](https://youtu.be/K8TCAMvkIYQ) - Antisyphon, 2023
+- [Triad of Success: Education, Experience, and Networking](https://www.youtube.com/watch?v=tY27MsxygUk) - Antisyphon Anti-Cast, 2022
+- [Breaking Into Cybersecurity](https://www.youtube.com/watch?v=uG67G9-uZpI) - 2022
 
 ## Writing
 
-<div class="wts-rows">
+- **Common Cyber Threats** - Black Hills Information Security blog, 2025. Co-authored with Dieter Smith, Blake Regan, and Matthew Thomas.
+- **Threat Hunting: An Active Search for Risks** - chapter in the InfoSec Survival Guide 2.0, Black Hills InfoSec, 2023. ([launch event](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294))
 
-  <div class="wts-row">
-    <div class="wts-row-key">2025</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Common Cyber Threats</div>
-      <div class="wts-row-sub">Black Hills InfoSec blog, co-authored</div>
-    </div>
-  </div>
+## Education &amp; Certifications
 
-  <div class="wts-row">
-    <div class="wts-row-key">2023</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">Threat Hunting: An Active Search for Risks</div>
-      <div class="wts-row-sub">InfoSec Survival Guide 2.0 — <a href="https://www.blackhillsinfosec.com/wp-content/uploads/2023/11/Survival_Guide_v2_PDF_LINKEDIN.pdf" target="_blank" rel="noopener">PDF</a></div>
-    </div>
-  </div>
-
-</div>
-
-## Credentials
-
-<div class="wts-rows">
-
-  <div class="wts-row">
-    <div class="wts-row-key">2019 – 2023</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">M.S. Cybersecurity</div>
-      <div class="wts-row-sub">Georgia Institute of Technology</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2017 – 2018</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">B.S. Information Technology / Cyber Security</div>
-      <div class="wts-row-sub">Colorado State University — Global Campus</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">2015 – 2016</div>
-    <div class="wts-row-main">
-      <div class="wts-row-title">A.S. Information Technology</div>
-      <div class="wts-row-sub">San Diego City College</div>
-    </div>
-  </div>
-
-  <div class="wts-row">
-    <div class="wts-row-key">Certs</div>
-    <div class="wts-row-main">
-      <div class="wts-row-sub wts-row-sub-only">GIAC GMON · Recorded Future Certified Analyst · CompTIA CySA+, Security+, Network+ · MTA Windows Server Admin Fundamentals · ITIL Foundation · TestOut Security Pro</div>
-    </div>
-  </div>
-
-</div>
-
-<p class="wts-outro">
-  Got a detection problem, a CTI program that isn't landing, or a conference that needs a speaker? <a href="mailto:wade.wells@WadingThruSecurity.com">Email me</a> — I answer.
-</p>
+- **M.S. Cybersecurity** - Georgia Institute of Technology (2019–2023)
+- **B.S. Information Technology / Cyber Security** - Colorado State University, Global Campus (2017–2018)
+- **A.S. Information Technology** - San Diego City College (2015–2016)
+- Certifications: GIAC GMON, Recorded Future Certified Analyst, CompTIA CySA+, Security+, and Network+, MTA Windows Server Administration Fundamentals, ITIL Foundation, TestOut Security Pro

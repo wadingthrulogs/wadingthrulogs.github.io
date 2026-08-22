@@ -1,39 +1,18 @@
 // ─── WTS Design Tokens ────────────────────────────────────────────────────────
 
 :root {
-  // Color palette
   --wts-ink:       #242430;
   --wts-ink-2:     #1a1a24;
-  --wts-ink-3:     #11111a;
   --wts-paper:     #ffffff;
   --wts-fog:       #cfd8dc;
   --wts-cyan:      #00c9ff;
   --wts-sky:       #039be5;
-
-  // Neutral scale
-  --wts-n-400:     #bdbdbd;
   --wts-n-500:     #9e9e9e;
-  --wts-n-600:     #757575;
 
-  // Hairlines
-  --wts-rule:      rgba(255, 255, 255, 0.07);
-  --wts-rule-soft: rgba(255, 255, 255, 0.04);
-
-  // Spacing (4px base)
-  --s-1:  4px;
-  --s-2:  8px;
-  --s-3:  12px;
-  --s-4:  16px;
-  --s-5:  24px;
-  --s-6:  32px;
-  --s-7:  48px;
-  --s-8:  64px;
-
-  // Transitions
   --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-// ─── Global Typography Overrides ──────────────────────────────────────────────
+// ─── Global Typography ────────────────────────────────────────────────────────
 
 body {
   font-family: 'Roboto', system-ui, -apple-system, sans-serif;
@@ -52,7 +31,7 @@ code, pre, kbd, samp, .highlight {
 }
 
 // ─── Chirpy Variable Overrides ────────────────────────────────────────────────
-// Map WTS tokens onto Chirpy's dark-mode variables (site-wide, incl. posts)
+// Maps WTS tokens onto Chirpy's variables. Applies site-wide, posts included.
 
 [data-mode="dark"],
 html[data-mode="dark"],
@@ -61,7 +40,7 @@ body {
   --sidebar-bg:        var(--wts-ink-2);
   --heading-color:     var(--wts-paper);
   --label-color:       var(--wts-fog);
-  --text-muted-color:  var(--wts-n-500); // n-600 fails WCAG AA on --wts-ink (3.3:1)
+  --text-muted-color:  var(--wts-n-500); // #757575 fails WCAG AA on --wts-ink (3.3:1)
   --link-color:        var(--wts-cyan);
   --link-underline-color: var(--wts-sky);
   --border-color:      rgba(255, 255, 255, 0.08);
@@ -95,243 +74,30 @@ a {
 }
 
 // ─── About Page ───────────────────────────────────────────────────────────────
-// Deliberately spare: hairlines and type hierarchy instead of cards, badges,
-// and fills. Every rule below is scoped to what the About page actually uses.
+// The page is plain markdown — prose, headings, and lists — styled by the
+// theme. The portrait is the only element that needs a rule of its own.
+// `.post-content img.wts-portrait` (0,2,1) outranks Chirpy's
+// `.post-content img` (0,1,1).
 
-// Section headings: quiet uppercase labels over a hairline, not banner type
-.page-about .post-content h2 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--wts-n-500);
-  border-left: none;
-  padding-left: 0;
-  padding-bottom: var(--s-3);
-  border-bottom: 1px solid var(--wts-rule);
-  margin: var(--s-8) 0 var(--s-4) 0;
-}
-
-// Hero
-.wts-hero {
-  display: flex;
-  align-items: center;
-  gap: var(--s-5);
-  margin: var(--s-5) 0 var(--s-6) 0;
-}
-
-// Two-class selectors (0,2,0) outrank Chirpy's `.post-content img` (0,1,1)
-.wts-hero .wts-hero-photo {
-  flex: 0 0 auto;
-  width: 88px;
-  height: 88px;
-  margin: 0;
+.post-content img.wts-portrait,
+img.wts-portrait {
+  display: block;
+  width: 120px;
+  height: 120px;
+  max-width: 120px;
+  margin: 0 0 var(--s-5, 24px) 0;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid var(--wts-rule);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   background: var(--wts-ink-2);
   box-shadow: none;
 }
 
-.wts-hero-text {
-  min-width: 0;
-}
-
-.wts-hero .wts-hero-name {
-  font-family: 'Roboto Slab', Georgia, serif;
-  font-size: 1.9rem;
-  font-weight: 700;
-  line-height: 1.1;
-  color: var(--wts-paper);
-  letter-spacing: -0.02em;
-  margin: 0;
-  border: none;
-  padding: 0;
-}
-
-.wts-hero .wts-hero-title {
-  font-size: 0.92rem;
-  color: var(--wts-n-500);
-  margin: var(--s-2) 0 0 0;
-}
-
-// Lede paragraphs
-.wts-lede {
-  font-size: 1rem;
-  line-height: 1.75;
-  color: var(--wts-fog);
-  max-width: 64ch;
-  margin: 0 0 var(--s-4) 0;
-}
-
-// Inline link row
-.wts-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--s-2) var(--s-5);
-  margin-top: var(--s-5);
-}
-
-.wts-links a {
-  font-size: 0.85rem;
-  color: var(--wts-fog);
-  text-decoration: none !important;
-  border-bottom: 1px solid transparent;
-  padding-bottom: 1px;
-  transition: color 180ms var(--ease-out), border-color 180ms var(--ease-out);
-
-  &:hover {
-    color: var(--wts-cyan);
-    border-bottom-color: rgba(0, 201, 255, 0.5);
-  }
-}
-
-// Row list — the one repeating structure on the page
-.wts-rows {
-  margin: 0;
-}
-
-.wts-row {
-  display: grid;
-  grid-template-columns: 104px 1fr;
-  gap: 0 var(--s-5);
-  padding: var(--s-3) 0;
-  border-bottom: 1px solid var(--wts-rule-soft);
-
-  &:last-child {
-    border-bottom: none;
-  }
-}
-
-.wts-row-key {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
-  line-height: 1.6;
-  color: var(--wts-n-500);
-  padding-top: 3px;
-  white-space: nowrap;
-}
-
-.wts-row-main {
-  min-width: 0;
-}
-
-.wts-row-title {
-  font-size: 0.95rem;
-  font-weight: 500;
-  line-height: 1.45;
-  color: var(--wts-paper);
-}
-
-.wts-row-sub {
-  font-size: 0.84rem;
-  line-height: 1.5;
-  color: var(--wts-n-500);
-  margin-top: 2px;
-}
-
-// When a row has no title, the sub line carries it
-.wts-row-sub-only {
-  margin-top: 0;
-  padding-top: 2px;
-}
-
-.wts-row-sub a {
-  color: var(--wts-n-400);
-  text-decoration: none !important;
-  border-bottom: 1px solid var(--wts-rule);
-  transition: color 180ms var(--ease-out), border-color 180ms var(--ease-out);
-
-  &:hover {
-    color: var(--wts-cyan);
-    border-bottom-color: rgba(0, 201, 255, 0.5);
-  }
-}
-
-// Collapsible overflow list
-.wts-details {
-  margin: var(--s-4) 0 0 0;
-
-  > summary {
-    cursor: pointer;
-    list-style: none;
-    font-family: 'Roboto', sans-serif;
-    font-size: 0.78rem;
-    color: var(--wts-n-500);
-    padding: var(--s-2) 0;
-    transition: color 180ms var(--ease-out);
-
-    &::-webkit-details-marker { display: none; }
-
-    &::before {
-      content: '+';
-      font-family: 'JetBrains Mono', monospace;
-      margin-right: var(--s-2);
-      color: var(--wts-cyan);
-    }
-
-    &:hover { color: var(--wts-fog); }
-
-    &:focus-visible {
-      outline: 1px solid var(--wts-cyan);
-      outline-offset: 3px;
-    }
-  }
-
-  &[open] > summary::before {
-    content: '−';
-  }
-}
-
-// Outro
-.wts-outro {
-  margin-top: var(--s-8);
-  padding-top: var(--s-5);
-  border-top: 1px solid var(--wts-rule);
-  font-size: 0.9rem;
-  line-height: 1.65;
-  color: var(--wts-n-500);
-  max-width: 64ch;
-}
-
-// ─── Reduced motion ───────────────────────────────────────────────────────────
-
-@media (prefers-reduced-motion: reduce) {
-  .wts-links a,
-  .wts-row-sub a,
-  .wts-details > summary {
-    transition: none;
-  }
-}
-
-// ─── Mobile ───────────────────────────────────────────────────────────────────
-
 @media (max-width: 768px) {
-  .wts-hero {
-    gap: var(--s-4);
-  }
-
-  .wts-hero .wts-hero-photo {
-    width: 68px;
-    height: 68px;
-  }
-
-  .wts-hero .wts-hero-name {
-    font-size: 1.5rem;
-  }
-
-  .wts-row {
-    grid-template-columns: 1fr;
-    gap: 2px;
-  }
-
-  .wts-row-key {
-    padding-top: 0;
-    order: 2;
-  }
-
-  .wts-row-main {
-    order: 1;
+  .post-content img.wts-portrait,
+  img.wts-portrait {
+    width: 92px;
+    height: 92px;
+    max-width: 92px;
   }
 }
