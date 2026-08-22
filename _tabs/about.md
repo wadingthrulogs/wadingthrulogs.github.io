@@ -65,12 +65,12 @@ Cheers,
 
 ## Writing
 
-I've written an article for four of Black Hills InfoSec's [Infosec Survival Guides](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides) — the community zines they hand out by the thousand at conferences.
+I've written an article for four of Black Hills InfoSec's [Infosec Survival Guides](https://www.blackhillsinfosec.com/prompt-zine/#infosec-survival-guide) — the community zines they hand out by the thousand at conferences. All of them are free to read.
 
-- **Threat Hunting: An Active Search for Risks** - [Yellow Book](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-yellow), Black Hills InfoSec. ([launch event](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294))
-- **Detection Engineering** - [Blue Book, SOC Analyst](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-blue-book-soc-analyst-0), Black Hills InfoSec.
-- **Know Your Enemy: Cyber Threat Actor Profiling** - [Orange Book, Incident Response](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-orange-book-incident-response), Black Hills InfoSec.
-- **Common Cyber Threats** - [Green Book](https://spearphish-general-store.myshopify.com/collections/infosec-survival-guides/products/the-infosec-survival-guide-green), Black Hills InfoSec. Written with Dieter Smith, Blake Regan, and Matthew Thomas.
+- **Threat Hunting: An Active Search for Risks** - [Yellow Book](https://www.blackhillsinfosec.com/uploads/media/zine/survival-guide-second-edition-jan25-compressed-a44cd9bcd2124451b3e9b64f58e96963.pdf) (PDF). ([launch event](https://www.youtube.com/live/Go4H8z54TGk?si=feyPfidPK8a4AKf5&t=1294))
+- **Detection Engineering: Stop Drowning in Alerts and Start Catching Bad Guys** - [Blue Book, SOC Analysts](https://www.blackhillsinfosec.com/uploads/media/zine/infosec-survival-guide-blue-book-soc-1-compressed-262f15702b954827898ad2b07bdc3eee.pdf) (PDF)
+- **Know Your Enemy: Threat Actor Standard Operating Procedure** - [Orange Book, Incident Response](https://www.blackhillsinfosec.com/uploads/media/zine/infosec-survival-guide-orange-book-incident-reponse-compressed-4ef3a69335df474f9b88fb5f278b2c64.pdf) (PDF)
+- **Common Cyber Threats** - [Green Book](https://www.blackhillsinfosec.com/uploads/media/zine/infosec-survival-guide-greenbook-2ndprinting-jan2025-compressed-df482ceb5a174a6d8d8bed28aa4e7496.pdf) (PDF). Written with Dieter Smith, Blake Regan, and Matthew Thomas.
 
 ## Education &amp; Certifications
 
